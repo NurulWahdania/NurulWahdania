@@ -90,7 +90,7 @@
 ## <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8d/Redstone_Dust_JE2_BE2.png" width="25"> Building Activity
 
 <div align="center">
-  <img src="https://github.com/NurulWahdania/NurulWahdania/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/NurulWahdania/NurulWahdania/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 </div>
 
