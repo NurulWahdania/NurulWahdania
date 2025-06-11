@@ -1,17 +1,15 @@
 <div align="center">
-  <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fe/Minecraft_cover.jpg" width="100%" alt="Minecraft Banner" style="border-radius: 8px;"/>
+  <img src="https://cdn.pixabay.com/photo/2016/11/09/02/24/minecraft-1810700_960_720.jpg" width="100%" alt="Minecraft Banner" style="border-radius: 8px;"/>
 </div>
 
-# <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1e/Diamond_Pickaxe_JE3_BE3.png" width="30"> Welcome to NurulWahdania's World! <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ab/Diamond_Sword_JE3_BE3.png" width="30">
+# ⛏️ Welcome to NurulWahdania's World! 🗡️
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Minecraft&size=24&pause=1000&color=5B8731&center=true&random=false&width=500&lines=Web+Developer;Minecraft+Enthusiast;Creative+Builder;Code+Crafter" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/51/Grass_Block_JE7_BE6.png" height="80" alt="Grass Block" /> 
-  <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c3/Crafting_Table_JE4_BE2.png" height="80" alt="Crafting Table" />
-  <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c2/Diamond_JE2_BE2.png" height="80" alt="Diamond" />
+  <span style="font-size:50px;">🟩 🧰 💎</span>
 </div>
 
 <p align="center">
@@ -29,7 +27,7 @@
   </a>
 </p>
 
-## <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7a/Book_and_Quill_JE2_BE2.png" width="25"> Player Stats
+## 📚 Player Stats
 
 ```ascii
 ╔══════════════════════════════════════════════════════════╗
@@ -42,17 +40,17 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img align="right" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/48/Enchanting_Table_JE5_BE3.png" width="270" alt="Enchanting Table" style="border-radius: 10px;"/>
+<img align="right" src="https://cdn.pixabay.com/photo/2013/08/07/17/42/minecraft-170917_960_720.png" width="270" alt="Minecraft Pixel Art" style="border-radius: 10px;"/>
 
-## <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2e/Golden_Apple_JE2_BE2.gif" width="25"> My Inventory
+## 🎒 My Inventory
 
-- <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f2/Stone_Pickaxe_JE3_BE3.png" width="20"> Working on web applications with Minecraft-inspired designs
-- <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e9/Iron_Pickaxe_JE3_BE3.png" width="20"> Crafting responsive websites using modern frameworks
-- <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3e/Diamond_Axe_JE3_BE3.png" width="20"> Learning advanced JavaScript for interactive experiences
-- <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c3/Crafting_Table_JE4_BE2.png" width="20"> Building Minecraft mods and custom resource packs
-- <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6a/Diamond_Ore_JE5_BE5.png" width="20"> Exploring pixel art and voxel-based design principles
+- 🪨 Working on web applications with Minecraft-inspired designs
+- ⛏️ Crafting responsive websites using modern frameworks
+- 🪓 Learning advanced JavaScript for interactive experiences
+- 🧰 Building Minecraft mods and custom resource packs
+- 💎 Exploring pixel art and voxel-based design principles
 
-## <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6c/Experience_Orb_JE2_BE2.png" width="25"> Skills & Enchantments
+## ✨ Skills & Enchantments
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=78A600" alt="HTML5" />
@@ -64,7 +62,7 @@
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=7D8833" alt="Minecraft" />
 </p>
 
-## <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e9/Emerald_JE3_BE3.png" width="25"> XP Stats
+## 💚 XP Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NurulWahdania&show_icons=true&custom_title=Achievement%20Statistics&theme=dark&bg_color=121212&title_color=8BAC19&icon_color=9AB236&text_color=9EC92E&border_color=586223&hide_border=false" alt="GitHub Stats" height="170" />
@@ -76,7 +74,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NurulWahdania&theme=dark&background=121212&border=586223&stroke=586223&ring=8BAC19&fire=9AB236&currStreakNum=9EC92E&sideNums=9EC92E&currStreakLabel=8BAC19&sideLabels=8BAC19&dates=7D8833" alt="GitHub Streak" />
 </div>
 
-## <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3c/Chest_JE4_BE3.png" width="25"> Featured Builds (Projects)
+## 📦 Featured Builds (Projects)
 
 <div align="center">
   <a href="https://github.com/NurulWahdania/minecraft-website">
@@ -87,14 +85,13 @@
   </a>
 </div>
 
-## <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8d/Redstone_Dust_JE2_BE2.png" width="25"> Building Activity
+## 🔴 Building Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/NurulWahdania/NurulWahdania/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-</div>
 
-## <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/60/Map_JE2_BE2.png" width="25"> Minecraft Gallery
+## 🗺️ Minecraft Gallery
 
 <div align="center">
   <img src="https://cdn.pixabay.com/photo/2014/04/03/00/38/minecraft-308601_960_720.png" width="270" alt="Minecraft Build" style="border-radius: 8px;"/>
@@ -107,7 +104,7 @@
   <img src="https://cdn.pixabay.com/photo/2013/08/07/17/42/minecraft-170917_960_720.png" width="270" alt="Minecraft Art" style="border-radius: 8px;"/>
 </div>
 
-## <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0e/Enchanted_Book.gif" width="25"> Minecraft Quote
+## 📖 Minecraft Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20limit%20is%20your%20imagination.&author=Minecraft" alt="Minecraft Quote" />
