@@ -1,105 +1,126 @@
 <div align="center">
-  <img src="https://i.imgur.com/ckKqv3S.jpg" width="100%" height="250" alt="Forest header" style="border-radius: 15px; object-fit: cover;"/>
+  <img src="https://i.imgur.com/z2AqQsV.png" width="100%" alt="Minecraft Banner" style="border-radius: 8px;"/>
 </div>
 
-# <img src="https://i.imgur.com/3Xnj0zy.gif" width="30"> Hello Nature Lovers! I'm Nurul Wahdania
+# <img src="https://i.imgur.com/ETbxkeE.gif" width="30"> Welcome to Nurul Wahdania's World! <img src="https://i.imgur.com/HzOIaPL.gif" width="30">
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E7C3F&center=true&random=false&width=500&lines=Web+Developer;Nature+Enthusiast;Creative+Designer;Sustainable+Tech+Advocate" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Minecraft&size=24&pause=1000&color=5B8731&center=true&random=false&width=500&lines=Web+Developer;Minecraft+Enthusiast;Creative+Builder;Redstone+Engineer" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/pOVEflY.gif" height="80" alt="Minecraft Steve walking" /> 
+  <img src="https://i.imgur.com/lZq4JZH.gif" height="80" alt="Minecraft Creeper" />
+  <img src="https://i.imgur.com/KhTzAQJ.gif" height="80" alt="Minecraft Villager" />
 </div>
 
 <p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-1B5E20?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-7D8833?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/your-profile/">
-    <img src="https://img.shields.io/badge/LinkedIn-2E7D32?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-5D7C15?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/your-profile/">
-    <img src="https://img.shields.io/badge/Instagram-388E3C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-9AB236?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://twitter.com/your-profile/">
-    <img src="https://img.shields.io/badge/Twitter-43A047?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-7E8A27?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
-## <img src="https://i.imgur.com/PBsMtcH.gif" width="30"> About Me
+## <img src="https://i.imgur.com/kTbGvFw.png" width="25"> Player Stats
 
-```css
-const nurul = {
-  passions: ["sustainable development", "nature conservation", "web design"],
-  currentFocus: "Creating eco-friendly digital solutions",
-  learningJourney: "Exploring the integration of nature principles in UI design",
-  lifePhilosophy: "Technology should enhance our connection to nature, not replace it",
-  funFact: "I collect seeds from places I travel to and plant them in my garden"
-};
+```ascii
+╔══════════════════════════════════════════════════════════╗
+║ IGN: NurulWahdania                                       ║
+║ Level: Developer                                         ║
+║ Class: Creative Builder & Web Designer                   ║
+║ Main Tools: HTML Pickaxe, CSS Sword, JavaScript Bow      ║
+║ Special Ability: Turning code blocks into digital builds ║
+║ Quest: Creating amazing websites and Minecraft worlds    ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-<img align="right" src="https://i.imgur.com/9GNBRQU.gif" width="270" style="border-radius: 10px;"/>
+<img align="right" src="https://i.imgur.com/e0mrDmn.gif" width="270" alt="Minecraft Animation" style="border-radius: 10px;"/>
 
-## 🌱 My Green Tech Journey
+## <img src="https://i.imgur.com/CfVRaO5.png" width="25"> My Inventory
 
-- 🌲 Working on web applications that promote environmental awareness
-- 🌿 Developing with sustainability principles in mind
-- 🍃 Learning biomimicry approaches to coding and design
-- 🌳 Contributing to open-source projects focused on climate action
-- 🌷 Creating digital gardens that blend technology and nature
+- <img src="https://i.imgur.com/XlOn9bn.png" width="20"> Working on web applications with Minecraft-inspired designs
+- <img src="https://i.imgur.com/XpliZQW.png" width="20"> Crafting responsive websites using modern frameworks
+- <img src="https://i.imgur.com/8zHko4V.png" width="20"> Learning advanced JavaScript for interactive experiences
+- <img src="https://i.imgur.com/aJ5ka6L.png" width="20"> Building Minecraft mods and custom resource packs
+- <img src="https://i.imgur.com/ZhSoLgm.png" width="20"> Exploring pixel art and voxel-based design principles
 
-## 🌲 Tech Forest (Skills)
+## <img src="https://i.imgur.com/sqGC4cR.png" width="25"> Skills & Enchantments
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-4CAF50?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-81C784?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-A5D6A7?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-C8E6C9?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-2E7D32?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Python-66BB6A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Figma-81C784?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-A5D6A7?style=for-the-badge&logo=git&logoColor=black" alt="Git" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=78A600" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=557417" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=9AB236" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=5D7C15" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=78A600" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=557417" alt="Python" />
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=7D8833" alt="Minecraft" />
 </p>
 
-## 📊 Growth Metrics
+## <img src="https://i.imgur.com/uEkAFQL.png" width="25"> XP Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NurulWahdania&show_icons=true&custom_title=My%20Digital%20Garden%20Stats&theme=vue&bg_color=DEF7EC&title_color=1E5128&icon_color=2E7D32&text_color=1B5E20&border_color=81C784&hide_border=false" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NurulWahdaniatema&show_icons=true&custom_title=Achievement%20Statistics&theme=dark&bg_color=121212&title_color=8BAC19&icon_color=9AB236&text_color=9EC92E&border_color=586223&hide_border=false" alt="GitHub Stats" height="170" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurulWahdania&layout=compact&custom_title=Languages%20in%20My%20Garden&theme=vue&bg_color=DEF7EC&title_color=1E5128&text_color=1B5E20&border_color=81C784&hide_border=false" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurulWahdaniatema&layout=compact&custom_title=Crafting%20Languages&theme=dark&bg_color=121212&title_color=8BAC19&text_color=9EC92E&border_color=586223&hide_border=false" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NurulWahdania&theme=vue&background=DEF7EC&border=81C784&stroke=81C784&ring=1E5128&fire=2E7D32&currStreakNum=1B5E20&sideNums=1B5E20&currStreakLabel=2E7D32&sideLabels=2E7D32&dates=43A047" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NurulWahdaniatema&theme=dark&background=121212&border=586223&stroke=586223&ring=8BAC19&fire=9AB236&currStreakNum=9EC92E&sideNums=9EC92E&currStreakLabel=8BAC19&sideLabels=8BAC19&dates=7D8833" alt="GitHub Streak" />
 </div>
 
-## 🌷 Featured Gardens (Projects)
+## <img src="https://i.imgur.com/SHzT7Kj.png" width="25"> Featured Builds (Projects)
 
 <div align="center">
-  <a href="https://github.com/NurulWahdania/eco-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NurulWahdania&repo=eco-project&theme=vue&bg_color=DEF7EC&title_color=1E5128&icon_color=2E7D32&text_color=1B5E20&border_color=81C784" alt="Eco Project" />
+  <a href="https://github.com/NurulWahdaniatema/minecraft-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NurulWahdaniatema&repo=minecraft-website&theme=dark&bg_color=121212&title_color=8BAC19&icon_color=9AB236&text_color=9EC92E&border_color=586223" alt="Minecraft Website" />
   </a>
-  <a href="https://github.com/NurulWahdania/nature-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NurulWahdania&repo=nature-website&theme=vue&bg_color=DEF7EC&title_color=1E5128&icon_color=2E7D32&text_color=1B5E20&border_color=81C784" alt="Nature Website" />
+  <a href="https://github.com/NurulWahdaniatema/pixel-art-gallery">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NurulWahdaniatema&repo=pixel-art-gallery&theme=dark&bg_color=121212&title_color=8BAC19&icon_color=9AB236&text_color=9EC92E&border_color=586223" alt="Pixel Art Gallery" />
   </a>
 </div>
 
-## 🌿 Seasonal Contributions
+## <img src="https://i.imgur.com/9vPrnDZ.png" width="25"> Building Activity
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/NurulWahdania/NurulWahdania@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://cdn.jsdelivr.net/gh/NurulWahdaniatema/NurulWahdaniatema@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-## 🍂 Nature Wisdom
+## <img src="https://i.imgur.com/7guwKpB.png" width="25"> Minecraft Gallery
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=In%20every%20walk%20with%20nature%20one%20receives%20far%20more%20than%20he%20seeks.&author=John%20Muir" alt="Nature Quote" />
+  <img src="https://i.imgur.com/OzYMfQs.jpg" width="270" alt="Minecraft Build" style="border-radius: 8px;"/>
+  <img src="https://i.imgur.com/88WnBkq.jpg" width="270" alt="Minecraft Landscape" style="border-radius: 8px;"/>
+  <img src="https://i.imgur.com/wEondEZ.jpg" width="270" alt="Minecraft Castle" style="border-radius: 8px;"/>
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/p8BnQ0S.jpg" width="270" alt="Minecraft Village" style="border-radius: 8px;"/>
+  <img src="https://i.imgur.com/vaa0yJZ.jpg" width="270" alt="Minecraft Redstone" style="border-radius: 8px;"/>
+  <img src="https://i.imgur.com/yS4CuZn.jpg" width="270" alt="Minecraft Art" style="border-radius: 8px;"/>
+</div>
+
+## <img src="https://i.imgur.com/kfXPIlK.png" width="25"> Minecraft Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20limit%20is%20your%20imagination.&author=Minecraft" alt="Minecraft Quote" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NurulWahdania&color=2E7D32&style=for-the-badge&label=NATURE+VISITORS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NurulWahdaniatema&color=78A600&style=for-the-badge&label=VISITOR+COUNT" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/r3Pr9RS.png" width="100%" height="150" alt="Forest footer" style="border-radius: 15px; object-fit: cover;"/>
+  <img src="https://i.imgur.com/1qUuEO4.png" width="100%" alt="Minecraft Footer" style="border-radius: 8px;"/>
 </div>
+
+<!-- Last updated: 2025-06-11 -->
 ```
